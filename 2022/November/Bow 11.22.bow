@@ -1,0 +1,20 @@
+Reservations:
+Ausgaben:
+{"Number":"1    Miete","VorSteuer":0,"art":"Miete","Date":"2022-11-01T00:00:00","Betrag":495.33}
+{"Number":"2    Miete","VorSteuer":0,"art":"Miete","Date":"2022-11-01T00:00:00","Betrag":953}
+{"Number":"3    Miete","VorSteuer":0,"art":"Miete","Date":"2022-11-01T00:00:00","Betrag":349.99}
+{"Number":"4    Miete","VorSteuer":0,"art":"Miete","Date":"2022-11-01T00:00:00","Betrag":189.12}
+{"Number":"5    Rechnung","VorSteuer":57.72487394957983,"art":"Rechnung","Date":"2022-11-17T00:00:00","Betrag":361.54}
+{"Number":"6    Rechnung","VorSteuer":8.934789915966387,"art":"Rechnung","Date":"2022-11-10T00:00:00","Betrag":55.96}
+{"Number":"7    Rechnung","VorSteuer":17.705126050420166,"art":"Rechnung","Date":"2022-11-25T00:00:00","Betrag":110.89}
+{"Number":"8    Rechnung","VorSteuer":36.202184873949584,"art":"Rechnung","Date":"2022-11-08T00:00:00","Betrag":226.74}
+{"Number":"9    Rechnung","VorSteuer":12.827394957983193,"art":"Rechnung","Date":"2022-11-19T00:00:00","Betrag":80.34}
+{"Number":"10    Rechnung","VorSteuer":9.187058823529412,"art":"Rechnung","Date":"2022-11-12T00:00:00","Betrag":57.54}
+{"Number":"11    Rechnung","VorSteuer":23.168823529411767,"art":"Rechnung","Date":"2022-11-15T00:00:00","Betrag":145.11}
+{"Number":"12    Rechnung","VorSteuer":7.269495798319328,"art":"Rechnung","Date":"2022-11-17T00:00:00","Betrag":45.53}
+{"Number":"13    Rechnung","VorSteuer":3.9899999999999993,"art":"Rechnung","Date":"2022-11-12T00:00:00","Betrag":24.99}
+{"Number":"14    Rechnung","VorSteuer":30.966806722689075,"art":"Rechnung","Date":"2022-11-11T00:00:00","Betrag":193.95}
+{"Number":"15    Rechnung","VorSteuer":65.15403361344538,"art":"Rechnung","Date":"2022-11-11T00:00:00","Betrag":408.07}
+{"Number":"16    Rechnung","VorSteuer":6.863949579831933,"art":"Rechnung","Date":"2022-11-02T00:00:00","Betrag":42.99}
+{"Number":"17    Rechnung","VorSteuer":29.315882352941177,"art":"Rechnung","Date":"2022-11-18T00:00:00","Betrag":183.61}
+{"Number":"18    Rechnung","VorSteuer":22.704201680672266,"art":"Rechnung","Date":"2022-01-08T00:00:00","Betrag":142.2}

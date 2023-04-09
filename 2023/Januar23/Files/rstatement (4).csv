@@ -1,0 +1,4 @@
+﻿"Reservation number","Invoice number","Booked on",Arrival,Departure,"Booker name","Guest name",Rooms,Persons,"Room nights","Commission %","Original amount","Final amount","Commission amount","Payment fee",Status,"Guest request",Currency,"Hotel id","Property name",City,Country
+2179206605,1585963878,"Friday, January 20, 2023 - 04:24:42",2023-01-20,2023-01-21,"Bartosz Ciura","Bartosz  Ciura",1,1,1,12,30.00,30.00,3.6,0.00,Stayed,,EUR,9503680,,,
+2506858160,1585963878,"Wednesday, January 18, 2023 - 23:05:50",2023-01-21,2023-01-23,"Nicolas Marczuk","Nicolas Marczuk",1,1,2,12,63.00,63.00,7.56,0.76,Stayed,,EUR,9503680,,,
+2506868330,1585963878,"Friday, January 20, 2023 - 10:49:45",2023-01-23,2023-01-26,"Pfleger Zdenek","Pfleger Zdenek",1,1,3,12,86.40,86.40,10.368,1.09,Stayed,,EUR,9503680,,,
